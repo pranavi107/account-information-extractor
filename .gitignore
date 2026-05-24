@@ -1,5 +1,6 @@
 __pycache__/
 outputs/
+uploads/
+venv/
 *.zip
 *.docx
-venv/
